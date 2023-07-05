@@ -1,0 +1,32 @@
+*{
+margin: 0px;
+padding: 0%;
+
+}
+p{
+margin: 20px;
+padding: 15px;
+width: 100%;
+font-size: 26PX;
+border: 3px solid gray;
+border-radius: 10px;
+}
+
+body {
+  background-color: coral;
+  }
+
+span{
+  color: blue;
+
+}
+
+
+
+
+input:hover{
+
+  border: 3px solid rgb(139, 34, 34);
+  width: 400px;
+  
+}

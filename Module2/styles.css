@@ -1,0 +1,49 @@
+*{
+margin: 0px;
+padding: 0%;
+
+}
+p{
+margin: 20px;
+padding: 15px;
+width: 100%;
+font-size: 26PX;
+border: 3px solid gray;
+border-radius: 10px;
+}
+
+body {
+  background-color: coral;
+  }
+
+  body{
+    background-image: url(laptop.jpg);
+    font-family: 'Roboto', sans-serif;
+  }
+
+span{
+  color: blue;
+
+}
+::placeholder {
+  color: red;
+  opacity: 1
+
+  color: red;
+}
+::placeholder:hover {
+  color: rgb(8, 0, 255);
+
+  color: red;
+}
+input:focus:-moz-placeholder{
+ color: rgb(3, 88, 7);
+
+}
+
+input:hover{
+
+  border: 3px solid rgb(139, 34, 34);
+  width: 400px;
+  
+}
